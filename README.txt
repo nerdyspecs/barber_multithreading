@@ -1,7 +1,7 @@
-Name : Teck Hong Lee 99081584
+Name : Teck Hong Lee 
 
 Problem 1
-1. login to csce.unl.edu, and go into the directory where the file is located. Compile it by typing (gcc sleepingStylistSem.c -pthread)
+1. Compile it by typing (gcc sleepingStylistSem.c -pthread)
 2. input (./a.out) to run the compiled program :)
 
 Problem 2
